@@ -1,0 +1,80 @@
+/* XPM */
+static char * mytemple_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"64 64 14 1",
+"P  c #A88477",  // Warm Sandstone
+".  c #9C7E6A",  // Temple Stone
+"#  c #946F5D",  // Clay Earth
+"!  c #B58872",  // Old Ruins
+"/  c #7A5C4C",  // Temple Clay
+"@  c #705644",  // Temple Umber
+"1  c #6B7A58",  // Mossy Green
+"x  c #43503A",  // Deep Stone Moss
+"v  c #3E4A35",  // Shadow Moss
+"q  c #B7A39A",  // Fossil Beige
+"s  c #6C5543",  // Earthen Brown
+"t  c #455142",  // Olive Slate
+"u  c #D3CBC2",  // Limestone
+"w  c #6D5D4C",  // Sandstone Brown
+/* pixel data */
+"################################################################",
+".......1#1............#............1#111...........#.........11#",
+".....111#111..........#..........111#1.............#...........#",
+"################################################################",
+"..#............#............#..............#...........1#.......",
+"..#............#............#........11....#...........1#.......",
+"PPPP1!@@!!PPPPPPPPPP!!!!!1PPPPPPPPPP!!1@!!PPPPPPPPP1!!!!!!PPPPPP",
+"PPPP1!@@!!PPPPPPPP!!!!!!!!!1PPPPPPPP!!@@!!PPPPPPP1!!!!!!!!!!PPPP",
+"PPPP1!@@!!PPPPPP!!!!!!!!!!!!11PPPPPP!!@@!!PPPPP1!!!!!!!!!!!!!!PP",
+"PPPP1!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPv!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPv!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP1!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP1!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP1!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!1@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!1@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!1@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP1/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP1/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP1/!!!!!!!!!!!!PPPPPPv!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP1/!!!!!!!!!!!!PPPPPPv!@@!!PPPPPP!/!!!!!!!!!!!1PP",
+"PPPP!!@@!!PPPPPP1!!!!!!!!!!!!!PPPPvvv!@@!!111111!!!!!!!!!!!!!1PP",
+"###########################################111##################",
+"........#.............v#1...........#.............v#.........111",
+".......1#............vv#111111111111#......vv.....v#...........1",
+"################################################################",
+"..#111........#..............#......v......#....1111....#.......",
+"..#...........#......111.....#.....vvv.....#............#.......",
+"################################################################",
+"........#..............#............#..............#............",
+"PPPP!1111!PPPPPPPPPP!!!!!!PPPPPPPPPP!!@@!!PPPPPPPPPP!!!!!!PPPPPP",
+"PPPP!1@@!!PPPPPPPP!!!!!!!!!!PPPPPPPP!!@@!!PPPPPPPP!!!!!!!!!xPPPP",
+"PPPP!!@@!!PPPPPP!!!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!!!!!!!!!!!!xxPP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!xPP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!xPP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!xPP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP!/!!!!!!!!!!!!PP",
+"PPPP!!@@!!PPPPPP!!!!!!!!!!!!!!PPPPPP!!@@!!PPPPPP11111111111111PP",
+"........#..............#............#..............#...11.......",
+"........#..............#............#.........uuuuu#............",
+"###########################qqqqq##############uuuuu#############",
+"..#...........#....tt....qqqqqssq...........#.wwwww.....#.......",
+"111111111111111111ttttttqqqqqqqssq111111111111uuuuuwuuu111111111",
+"xxxxxxxxxxxxxxxxxttttttttqqqqqqqssqxxxxxxxxxxxuuuuuwuuuxxxxxxxxx",
+};
+
